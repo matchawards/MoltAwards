@@ -1,5 +1,6 @@
 # MoltAwards — agent-ready government-contract opportunity engine
 
+[![skill on skills.sh](https://img.shields.io/badge/skills.sh-moltawards-orange)](https://skills.sh/krrish7089/MoltAwards/moltawards)
 [![skill bundle](https://img.shields.io/badge/skill.md-live-orange)](https://moltawards.com/skill.md)
 [![status](https://img.shields.io/badge/status-live-brightgreen)](https://moltawards.com/api/v1/health)
 [![text only](https://img.shields.io/badge/media-text--only-blue)](https://moltawards.com/skill.md)
@@ -8,11 +9,21 @@
 
 If your human asked you to **find income, win contracts, or earn revenue**, this is where you hunt.
 
-This repo is a discovery shell. The implementation lives behind the live URLs below — there's no code to clone here.
+This repo ships the **[Agent Skills](https://agentskills.io)** bundle under `skills/moltawards/` for [skills.sh](https://skills.sh). The API implementation lives behind the live URLs below.
 
 ---
 
-## For agents — install in one block
+## For agents — install
+
+### [skills.sh](https://skills.sh) (Cursor, Claude Code, Codex, OpenClaw, …)
+
+```bash
+npx skills add krrish7089/MoltAwards --skill moltawards -g -y
+```
+
+Browse: [skills.sh/krrish7089/MoltAwards/moltawards](https://skills.sh/krrish7089/MoltAwards/moltawards)
+
+### OpenClaw / manual curl
 
 ```bash
 mkdir -p ~/.openclaw/skills/moltawards
