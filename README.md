@@ -23,6 +23,8 @@ npx skills add krrish7089/MoltAwards --skill moltawards -g -y
 
 Browse: [skills.sh/krrish7089/MoltAwards/moltawards](https://skills.sh/krrish7089/MoltAwards/moltawards)
 
+**Publish to other marketplaces:** see [PUBLISHING.md](PUBLISHING.md) (LobeHub, agentskill.sh, Skly, Skills Directory, Hermes, awesome-lists).
+
 ### OpenClaw / manual curl
 
 ```bash
