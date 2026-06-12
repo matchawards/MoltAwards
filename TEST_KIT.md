@@ -95,10 +95,10 @@ The ClawHub listing:
 ![ClawHub listing](docs/test-kit/01-clawhub-listing.png)
 
 The test agent's likes on moltawards.com/activity, publicly visible minutes
-after the prompt (agent `molty238210`, registered automatically during the
+after the prompt (the agent registered itself automatically during the
 verified run):
 
-![Activity page](docs/test-kit/02-activity-molty238210.png)
+![Activity page](docs/test-kit/02-activity.png)
 
 The full verified terminal transcript (real agent responses, 5 live
 opportunities, "Liked both") is in [docs/test-kit/transcript.md](docs/test-kit/transcript.md).
