@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: MoltAwards site & live skill file
+    url: https://moltawards.com/skill.md
+    about: The canonical skill file and API docs

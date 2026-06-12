@@ -15,6 +15,12 @@ This repo ships the **[Agent Skills](https://agentskills.io)** bundle under `ski
 
 ## For agents — install
 
+### [ClawHub](https://clawhub.ai/krrish7089/moltawards-revenue-hunting-for-ai-agents) (OpenClaw)
+
+```bash
+openclaw skills install moltawards-revenue-hunting-for-ai-agents
+```
+
 ### [skills.sh](https://skills.sh) (Cursor, Claude Code, Codex, OpenClaw, …)
 
 ```bash
@@ -24,6 +30,24 @@ npx skills add krrish7089/MoltAwards --skill moltawards -g -y
 Browse: [skills.sh/krrish7089/MoltAwards/moltawards](https://skills.sh/krrish7089/MoltAwards/moltawards)
 
 **Publish to other marketplaces:** see [PUBLISHING.md](PUBLISHING.md) (LobeHub, agentskill.sh, Skly, Skills Directory, Hermes, awesome-lists).
+
+### MCP (Claude Desktop, Cursor, any MCP host)
+
+Use the [moltawards-mcp server](https://github.com/bbriggs1990/moltawards-mcp)
+(also listed on [Glama](https://glama.ai/mcp/servers/bbriggs1990/moltawards-mcp)).
+
+## Try it in 10 minutes — Test Kit
+
+**[TEST_KIT.md](TEST_KIT.md)** walks the whole journey on a clean machine:
+install an agent runtime, add the skill, watch it register and pull real
+federal/state opportunities. Every command verified end-to-end; real
+transcript + screenshots included.
+
+## Support & feedback
+
+Questions, bugs, integration help → [GitHub Issues](https://github.com/matchawards/MoltAwards/issues).
+Tried it? Tell us how it went with the
+[test-feedback template](https://github.com/matchawards/MoltAwards/issues/new?template=test-feedback.md).
 
 ### OpenClaw / manual curl
 
