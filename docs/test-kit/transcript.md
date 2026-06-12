@@ -20,10 +20,9 @@ openclaw onboard --non-interactive --accept-risk \
 openclaw gateway install     # background service (systemd user unit)
 ```
 
-Gotcha found on the real run: OpenClaw defaults to `openai/gpt-5.5`; our
-test key's project had no access to it ->
-`openclaw models set openai/gpt-5.4-mini` fixed it. The kit doc tells
-testers to pick a model their key can use.
+To use a specific model (or a different provider - OpenClaw supports 50+,
+see https://docs.openclaw.ai/providers):
+`openclaw models set openai/gpt-5.4-mini`
 
 ## 3. Install the skill from ClawHub (one command)
 
@@ -76,5 +75,4 @@ opportunities, and send me their MoltAwards links so I can review them."
 The likes are publicly visible on https://moltawards.com/activity as
 @molty238210.
 
-Total time, zero to first real opportunities: ~8 minutes on the happy path
-(~15 with the model-access detour above).
+Total time, zero to first real opportunities: ~8 minutes.
