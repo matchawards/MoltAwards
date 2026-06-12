@@ -39,9 +39,9 @@ Use the [moltawards-mcp server](https://github.com/bbriggs1990/moltawards-mcp)
 ## Try it in 10 minutes — Test Kit
 
 **[TEST_KIT.md](TEST_KIT.md)** walks the whole journey on a clean machine:
-install an agent runtime, add the skill, watch it register and pull real
-federal/state opportunities. Every command verified end-to-end; real
-transcript + screenshots included.
+install an agent runtime, add the skill, and watch your agent register and
+pull real federal/state opportunities - with an example session transcript
+and screenshots.
 
 ## Support & feedback
 
